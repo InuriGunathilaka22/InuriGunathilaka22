@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=5EB5E0&size=25&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Inuri!;Web+Developer+%26+Designer;Content+Creator;Passionate+about+Next.js;From+Sri+Lanka"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=5EB5E0&size=25&center=true&vCenter=true&width=500&height=60&lines=Welcome to Inuri's Github Profile..."></a>
 </p>
+
 
 ## A few things about me
 - 💻 I'm a web developer, designer, content creator, and student.
