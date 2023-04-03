@@ -1,6 +1,6 @@
 <!-- Welcome message with GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlDeiKr6wGytvKQ/giphy.gif" alt="Welcome to Inuri's Github Account">
+  <img src="Welcome to Inuri's Github Account">
 </p>
 
 <!-- Introduction -->
