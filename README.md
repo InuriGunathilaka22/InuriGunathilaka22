@@ -1,31 +1,52 @@
+<!-- Welcome message with GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="300" height="300">
+  <img src="https://media.giphy.com/media/l0HlDeiKr6wGytvKQ/giphy.gif" alt="Welcome to Inuri's Github Account">
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Your Name]!</h1>
-
-<p align="center">[One-line Bio]</p>
-
-<h3 align="center">🛠️ Languages and Tools:</h3>
-
+<!-- Introduction -->
+<h3 align="center">Hi there, I'm Inuri 👋</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <samp>A final year undergraduate student passionate about QA automation and exploring the world of software engineering. I'm currently working on honing my skills in <strong>Java, Selenium, and Appium</strong>.</samp>
 </p>
 
-<h3 align="center">👨‍💻 Projects:</h3>
-
-- [Project 1](link): short description
-- [Project 2](link): short description
-- [Project 3](link): short description
-
-<h3 align="center">📫 Let's connect!</h3>
-
+<!-- Photo -->
 <p align="center">
-  <a href="[LinkedIn link]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="[Twitter link]"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="[Website link]"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white"/></a>
+  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/123456789?v=4">
+</p>
+
+<!-- About Me -->
+<h3 align="center">A few things about me...</h3>
+<ul>
+  <li>👩‍💻 I'm studying <strong>Computer Science</strong> at XYZ University.</li>
+  <li>🌱 I'm currently learning <strong>Test Automation</strong> and exploring <strong>Machine Learning</strong>.</li>
+  <li>🎓 I'm expected to graduate in <strong>2023</strong>.</li>
+  <li>🎨 In my free time, I enjoy <strong>painting and sketching</strong>.</li>
+</ul>
+
+<!-- How to Reach Me -->
+<h3 align="center">How to reach me?</h3>
+<p align="center">
+  <a href="mailto:inuri@example.com">Email</a> |
+  <a href="https://www.linkedin.com/in/inuri-gunathilaka/">LinkedIn</a> |
+  <a href="https://twitter.com/Inuri_G">Twitter</a>
+</p>
+
+<!-- GitHub Stats -->
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InuriGunathilaka22&show_icons=true" alt="GitHub Stats">
+</p>
+
+<!-- Latest Blog Posts -->
+<h3 align="center">My Latest Blog Posts</h3>
+<ul>
+  <li><a href="https://inurigunathilaka.com/blog/how-to-write-good-test-cases">How to write good test cases</a></li>
+  <li><a href="https://inurigunathilaka.com/blog/the-importance-of-code-reviews">The importance of code reviews</a></li>
+  <li><a href="https://inurigunathilaka.com/blog/my-journey-as-a-qa-automation-engineer">My journey as a QA automation engineer</a></li>
+</ul>
+
+<!-- Read More -->
+<h3 align="center">Read more</h3>
+<p align="center">
+  Check out my <a href="https://inurigunathilaka.com/">website</a> to learn more about my projects and experiences.
 </p>
