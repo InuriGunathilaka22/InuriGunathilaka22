@@ -1,52 +1,28 @@
-<!-- Welcome message with GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlDeiKr6wGytvKQ/giphy.gif" alt="Welcome to Inuri's Github Account">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=5EB5E0&size=25&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Inuri!;Web+Developer+%26+Designer;Content+Creator;Passionate+about+Next.js;From+Sri+Lanka"></a>
 </p>
 
-<!-- Introduction -->
-<h3 align="center">Hi there, I'm Inuri 👋</h3>
-<p align="center">
-  <samp>A final year undergraduate student passionate about QA automation and exploring the world of software engineering. I'm currently working on honing my skills in <strong>Java, Selenium, and Appium</strong>.</samp>
-</p>
+## A few things about me
+- 💻 I'm a web developer, designer, content creator, and student.
+- 📍 I'm from Sri Lanka.
+- 🕸️ I am passionate about building websites with Next.js.
+- 🤝 I like to meet new people.
+- 🎾 I like to play all sports and play tennis on a daily basis.
+- 🤓 I like to learn about new tech and blog about it on Hashnode. If you want to read my blogs, click [here](https://hashnode.com/@inurisamaranayake).
 
-<!-- Photo -->
-<p align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/123456789?v=4">
-</p>
+## 📫 How to reach me?
+Feel free to reach out to me on any of these platforms:
 
-<!-- About Me -->
-<h3 align="center">A few things about me...</h3>
-<ul>
-  <li>👩‍💻 I'm studying <strong>Computer Science</strong> at XYZ University.</li>
-  <li>🌱 I'm currently learning <strong>Test Automation</strong> and exploring <strong>Machine Learning</strong>.</li>
-  <li>🎓 I'm expected to graduate in <strong>2023</strong>.</li>
-  <li>🎨 In my free time, I enjoy <strong>painting and sketching</strong>.</li>
-</ul>
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/inurisamaranayake/)
+- [Twitter](https://twitter.com/yourtwitterhandle)
 
-<!-- How to Reach Me -->
-<h3 align="center">How to reach me?</h3>
-<p align="center">
-  <a href="mailto:inuri@example.com">Email</a> |
-  <a href="https://www.linkedin.com/in/inuri-gunathilaka/">LinkedIn</a> |
-  <a href="https://twitter.com/Inuri_G">Twitter</a>
-</p>
+## 📈 GitHub Stats
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InuriGunathilaka22&show_icons=true" alt="GitHub Stats">
-</p>
+[![Inuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=inurisamaranayake&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Latest Blog Posts -->
-<h3 align="center">My Latest Blog Posts</h3>
-<ul>
-  <li><a href="https://inurigunathilaka.com/blog/how-to-write-good-test-cases">How to write good test cases</a></li>
-  <li><a href="https://inurigunathilaka.com/blog/the-importance-of-code-reviews">The importance of code reviews</a></li>
-  <li><a href="https://inurigunathilaka.com/blog/my-journey-as-a-qa-automation-engineer">My journey as a QA automation engineer</a></li>
-</ul>
+## 📰 My Latest Blog Posts
+- [An Introduction to Solana Pay and How to Integrate it into Your Next.js App](https://inurisamaranayake.hashnode.dev/an-introduction-to-solana-pay-and-how-to-integrate-it-into-your-nextjs-app)
+- [How to Add Web3 Sign-In with Thirdweb](https://inurisamaranayake.hashnode.dev/how-to-add-web3-sign-in-with-thirdweb)
 
-<!-- Read More -->
-<h3 align="center">Read more</h3>
-<p align="center">
-  Check out my <a href="https://inurigunathilaka.com/">website</a> to learn more about my projects and experiences.
-</p>
+## Read more
