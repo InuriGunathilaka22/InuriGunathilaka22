@@ -29,11 +29,8 @@ Here are some ideas to get you started: -->
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: In my free time, you can find me <br/>
-                📺🍿 watching my favorite TV series and movies
-                  🚀 exploring new technologies , 
-                  📚 reading books and
-                  🍲 trying out new recipes in the kitchen 
+- ⚡ Fun fact: One of my favorite hobbies is getting lost in a good TV series or movie marathon 🎥🍿
+
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -63,6 +60,7 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InuriGunathilaka22&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InuriGunathilaka22&" alt="Inuri" />
 </div>
+
