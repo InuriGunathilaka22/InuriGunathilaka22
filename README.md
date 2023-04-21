@@ -21,15 +21,19 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning `MERN Stack`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 🚀 I'm excited to collaborate on ` innovative and meaningful projects`.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 😄 I'm constantly seeking to  `learn and grow in my field`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 😅 I'm open to discussing any topic under the sun, except maybe politics! 
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: In my free time, you can find me 
+                📺🍿 watching my favorite TV series and movies
+                  🚀 exploring new technologies , 
+                  📚 reading books and
+                  🍲 trying out new recipes in the kitchen 
 
 ## 🛠️ Technologies and Tools I use:
 
