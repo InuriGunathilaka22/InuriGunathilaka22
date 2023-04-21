@@ -21,11 +21,11 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning `MERN Stack`
 
-- 🚀 I'm excited to collaborate on ` innovative and meaningful projects`.
+- 🚀 Seeking to collaborate on ` innovative projects!`.
 
-- 😄 I'm constantly seeking to  `learn and grow in my field`
+- 💡  I love learning and growing in my field
 
-- 😅 I'm open to discussing any topic under the sun, except maybe politics! 
+- 😅 I'm up for chatting about anything, except politics! 
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
