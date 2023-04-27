@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Inuri's+GitHub+Profile!)](https://git.io/typing-svg)
+
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Inuri Gunathilaka</h1>
 
 <!--
