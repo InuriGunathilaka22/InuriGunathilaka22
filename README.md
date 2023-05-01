@@ -58,7 +58,7 @@ Here are some ideas to get you started: -->
 <p><a href="https://inurigunathilaka22.github.io/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px" /></a> 
 <a href="https://www.linkedin.com/in/inuri-gunathilake/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 <a href="https://inurigunathilaka22.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"  height="30px"/></a> 
-<a href="https://www.instagram.com/inuri_gunathilaka22/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="https://www.instagram.com/_inuri.99_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 
