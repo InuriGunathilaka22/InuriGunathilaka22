@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Machine Learning`
 
 - 🚀 Seeking to collaborate on ` innovative projects!`.
 
